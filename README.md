@@ -1,6 +1,6 @@
-# [db-academy.io](https://db-academy.io)'s sql parser
+# [db-academy.io](https://db-academy.io) sql parser
 
-A template project for [db-academy.io](https://db-academy.io)'s sql parser course
+A template project for db-academy.io's [sql parser course](https://db-academy.io/sql_parser)
 
 ## DevContainer 
 
@@ -19,4 +19,4 @@ If you're using [VSCode](https://code.visualstudio.com), please install the [Dev
 
 ### Other IDEs
 
-Please refer to the [DevContainer](https://containers.dev/supporting) documentation to set up a devcontainer on your IDE.
+Please refer to the support [documentation](https://containers.dev/supporting) to set up a devcontainer on your IDE.
